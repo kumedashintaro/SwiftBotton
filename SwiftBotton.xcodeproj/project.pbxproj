@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DB577BA024F60066002B466E /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB577B9F24F60066002B466E /* NextViewController.swift */; };
 		DB5818CA24F4FD5C0077B789 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB5818C924F4FD5C0077B789 /* AppDelegate.swift */; };
 		DB5818CC24F4FD5C0077B789 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB5818CB24F4FD5C0077B789 /* SceneDelegate.swift */; };
 		DB5818CE24F4FD5C0077B789 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB5818CD24F4FD5C0077B789 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DB577B9F24F60066002B466E /* NextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
 		DB5818C624F4FD5C0077B789 /* SwiftBotton.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftBotton.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB5818C924F4FD5C0077B789 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DB5818CB24F4FD5C0077B789 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				DB5818C924F4FD5C0077B789 /* AppDelegate.swift */,
 				DB5818CB24F4FD5C0077B789 /* SceneDelegate.swift */,
 				DB5818CD24F4FD5C0077B789 /* ViewController.swift */,
+				DB577B9F24F60066002B466E /* NextViewController.swift */,
 				DB5818CF24F4FD5C0077B789 /* Main.storyboard */,
 				DB5818D224F4FD5E0077B789 /* Assets.xcassets */,
 				DB5818D424F4FD5E0077B789 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DB5818CE24F4FD5C0077B789 /* ViewController.swift in Sources */,
+				DB577BA024F60066002B466E /* NextViewController.swift in Sources */,
 				DB5818CA24F4FD5C0077B789 /* AppDelegate.swift in Sources */,
 				DB5818CC24F4FD5C0077B789 /* SceneDelegate.swift in Sources */,
 			);
